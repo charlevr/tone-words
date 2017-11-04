@@ -1,1 +1,2 @@
-# tone-words
+# Tone Words
+This program takes a list of tone words and a text file of a book and determines the tone of the book. This project has many flaws in that there are many tone words and it analyzes the book very slowly. To make the project better, a more comprehensivve list of tones and their words would be required as the ration of tone words to total words is very low. A closer analysis of anything more than tone words is currently out of reach as a programmer but exploring this project further once I have more knowledge would be interesting. 
