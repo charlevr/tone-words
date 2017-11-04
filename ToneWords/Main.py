@@ -7,6 +7,10 @@ import re
 from collections import defaultdict
 
 def openText(file: open) -> list:
+    '''
+    Opens a file and reads the words. Takes out punctuation points and other non-word items
+    using regular expressions and returns all of the words in a list
+    '''
     try:
         text = open(file)
     except:
@@ -20,6 +24,9 @@ def openText(file: open) -> list:
     return words
 
 def openToneWords():
+    '''
+    takes each text file of tone words and adds them to a particular list and returns a dictionary with each list
+    '''
     toneWords = defaultdict(list)
     def getToneWords(file: open, tone: str) -> dict:
         words = open(file)
@@ -33,6 +40,9 @@ def openToneWords():
     return toneWords
     
 def countWords(wordList: list, toneDict: dict) -> dict:
+    '''
+    Go through each word in each text and determine the tone of each word, if it has one. 
+    '''
     toneCount = defaultdict(int)
     words = defaultdict(list)
     for word in wordList:
@@ -43,11 +53,15 @@ def countWords(wordList: list, toneDict: dict) -> dict:
     return (toneCount, words)
 
 def countToneWords(wordDict: dict):
+    '''
+    Returns the number of tone words in the dictionary
+    '''
     count = 0
     for word in wordDict.keys():
         count += wordDict[word]
     return count
 
+#no specific function implemented here, but if I decide to add more to this project then a function will be used
 text = countWords(openText('TheEgg.txt'), openToneWords())
 
 print(len(openText('TheEgg.txt')))
