@@ -1,0 +1,10 @@
+Amused 		Droll 			Mock-heroic 		Sardonic
+Bantering 		Facetious 		Mocking 		Satiric
+Bitter 			Flippant 		Mock-serious 		Scornful
+Caustic 		Giddy 			Patronizing 		Sharp
+Comical 		Humorous 		Pompous 		Silly
+Condescending 	Insolent 		Quizzical 		Taunting
+Contemptuous 	Ironic 			Ribald 			Teasing
+Critical 		Irreverent 		Ridiculing 		Whimsical
+Cynical 		Joking 			Sad 			Wry
+Disdainful 		Malicious 		Sarcastic

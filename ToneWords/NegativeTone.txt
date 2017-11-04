@@ -1,0 +1,13 @@
+Accusing 		Choleric 		Furious 		Quarrelsome
+Aggravated 		Coarse 		Harsh 			Shameful
+Agitated 		Cold 			Haughty 		Smooth
+Angry 			Condemnatory 	Hateful 		Snooty
+Apathetic 		Condescending 	Hurtful 		Superficial
+Arrogant 		Contradictory 		Indignant 		Surly
+Artificial 		Critical 		Inflammatory 		Testy
+Audacious 		Desperate 		Insulting 		Threatening
+Belligerent 		Disappointed 		Irritated 		Tired
+Bitter 			Disgruntled 		Manipulative 		Uninterested
+Boring 			Disgusted 		Obnoxious 		Wrathful
+Brash 			Disinterested 		Outraged
+Childish 		Facetious 		Passive

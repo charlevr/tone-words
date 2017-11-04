@@ -1,0 +1,11 @@
+Aggravated 		Embarrassed 		Morose 		Resigned
+Agitated 		Fearful 		Mournful 		Sad
+Anxious 		Foreboding 		Nervous 		Serious
+Apologetic 		Gloomy 		Numb 			Sober
+Apprehensive 		Grave 			Ominous 		Solemn
+Concerned 		Hollow 		Paranoid 		Somber
+Confused 		Hopeless 		Pessimistic 		Staid
+Dejected 		Horrific 		Pitiful 			Upset
+Depressed 		Horror 			Poignant
+Despairing 		Melancholy 		Regretful
+Disturbed 		Miserable 		Remorseful
